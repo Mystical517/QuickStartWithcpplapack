@@ -1,0 +1,19 @@
+{
+    "title": "cpplapack帮助文档",
+    "description": null,
+    "plugins": [
+        "-search",
+        "-lunr",
+        "search-pro",
+        "back-to-top-button",
+        "code",
+        "advanced-emoji",
+        "simple-page-toc"
+    ],
+    "pluginsConfig": {
+        "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+        }
+    }
+}
